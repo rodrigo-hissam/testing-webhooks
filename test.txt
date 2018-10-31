@@ -6,3 +6,4 @@ We are in a branch
 Another commit
 
 test 6
+Test7
