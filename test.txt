@@ -2,3 +2,4 @@ Simple test file which we will commit to master
 another commit
 
 another one
+Test
