@@ -2,3 +2,5 @@ Simple test file which we will commit to master
 another commit
 
 We are in a branch
+
+WE ARE IN A BRANCH AGAIN
