@@ -1,17 +1,3 @@
 Simple test file which we will commit to master
-another commit
 
-We are in a branch
-
-Another commit
-
-test 6
-Test7
-Test 8
-Test 8
-Test 9
-Test 10
-Test 12
-Test 13
-Test 14
-Test 14
+Final test
